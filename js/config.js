@@ -88,7 +88,7 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-        {youtube: "foHzgl5ickU", name: "Ładowanie serwera..."},         
+        {youtube: "foHzgl5ickU", name: "Ladowanie serwera..."}         
 ];
 
 /*Random music order?*/
@@ -96,7 +96,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 15;
+var l_musicVolume = 50;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
